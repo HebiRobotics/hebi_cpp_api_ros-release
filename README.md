@@ -1,3 +1,26 @@
+## hebi_cpp_api_ros (kinetic) - 2.1.0-1
+
+The packages in the `hebi_cpp_api_ros` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release hebi_cpp_api_ros --rosdistro kinetic` on `Wed, 21 Aug 2019 18:12:38 -0000`
+
+The `hebi_cpp_api` package was released.
+
+Version of package(s) in repository `hebi_cpp_api_ros`:
+
+- upstream repository: https://github.com/HebiRobotics/hebi_cpp_api_ros.git
+- release repository: https://github.com/HebiRobotics/hebi_cpp_api_ros-release.git
+- rosdistro version: `2.0.2-0`
+- old version: `2.0.2-0`
+- new version: `2.1.0-1`
+
+Versions of tools used:
+
+- bloom version: `0.8.0`
+- catkin_pkg version: `0.4.12`
+- rosdep version: `0.15.1`
+- rosdistro version: `0.7.4`
+- vcstools version: `0.1.40`
+
+
 ## hebi_cpp_api_ros (melodic) - 2.0.2-0
 
 The packages in the `hebi_cpp_api_ros` repository were released into the `melodic` distro by running `/usr/bin/bloom-release hebi_cpp_api_ros --rosdistro melodic` on `Tue, 29 Jan 2019 22:11:31 -0000`
