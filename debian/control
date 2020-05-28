@@ -1,0 +1,12 @@
+Source: ros-noetic-hebi-cpp-api
+Section: misc
+Priority: optional
+Maintainer: Chris Bollinger <chris@hebirobotics.com>
+Build-Depends: debhelper (>= 9.0.0), libeigen3-dev, ros-noetic-catkin, ros-noetic-cmake-modules
+Homepage: http://docs.hebi.us/tools.html#cpp-api
+Standards-Version: 3.9.2
+
+Package: ros-noetic-hebi-cpp-api
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, 
+Description: A ROS package providing access to the HEBI C++ API.
