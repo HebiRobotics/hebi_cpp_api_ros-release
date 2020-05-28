@@ -1,3 +1,26 @@
+## hebi_cpp_api_ros (noetic) - 3.2.0-1
+
+The packages in the `hebi_cpp_api_ros` repository were released into the `noetic` distro by running `/usr/bin/bloom-release --rosdistro noetic --track noetic hebi_cpp_api_ros --edit` on `Thu, 28 May 2020 18:07:49 -0000`
+
+The `hebi_cpp_api` package was released.
+
+Version of package(s) in repository `hebi_cpp_api_ros`:
+
+- upstream repository: https://github.com/HebiRobotics/hebi_cpp_api_ros.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `3.2.0-1`
+
+Versions of tools used:
+
+- bloom version: `0.9.7`
+- catkin_pkg version: `0.4.14`
+- rosdep version: `0.19.0`
+- rosdistro version: `0.8.1`
+- vcstools version: `0.1.42`
+
+
 ## hebi_cpp_api_ros (melodic) - 3.2.0-2
 
 The packages in the `hebi_cpp_api_ros` repository were released into the `melodic` distro by running `/usr/bin/bloom-release hebi_cpp_api_ros --rosdistro melodic` on `Thu, 28 May 2020 17:33:58 -0000`
